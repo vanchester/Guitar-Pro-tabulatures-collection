@@ -1,0 +1,191 @@
+Lesson: 15
+Title: Right and Left Hand Technique - IV
+Level: Beginner
+Style: Techniq
+Instructor: Tim Fullerton
+
+
+PART IV -- Right hand  position 
+
+    This series is the approach that I use to teach pick-style 
+technique to all of my students. For best results, take these 
+articles to an educated and experienced teacher who is stylistically 
+broad based and who knows this approach, so that (s)he may coach you.
+
+                        **Disclaimer**
+                        
+    This approach is to attain the maximum possible cleanliness and 
+articulateness in ones tone. Also, it will give, ultimately, the 
+greatest speed with the least health risk. I am careful never to say 
+that it is the CORRECT way to play. There is no such thing, and many 
+people do great things with really sloppy technique. Wherever 
+possible, though, I will indicate the exact benefits of each 
+technique.
+
+    If you are left handed, please excuse my right-handed bias, and 
+reverse all of the relevant direction and hand indications.
+
+
+F) Overall position
+
+    If you have set up the guitar position as in lesson I, your right 
+forearm should be making an angle of about 160 degrees with the strings.
+That is as it should be. Furthermore, one could even position one's 
+forearm so that it is parallel to those strings, extending from them. 
+The thing to avoid is having the guitar low, with your right forearm 
+perpendicular to the strings. 
+
+
+    This enables one to the pick set up as follows.
+
+G) The Pick
+
+    Only a very small portion of the pick should extend -- a millimeter 
+or less. The flat of the pick should be parallel to the strings, and the 
+pick itself should be perpendicular to the guitar. 
+
+    One common mistake...people usually try to adjust this by angling 
+differently at their wrist. That is unnecessary. The wrist should stay
+straight. All pick adjustments can be made by placing it at a different 
+point on the fingertip.
+
+BENEFITS:
+
+    This reduces pick noise. Many people are inclined to have the pick 
+angled because it produces less friction, and seems faster. The 
+problem, though, is that any angle increases the noise produced as 
+the pick scrapes across the string. If one does play fast with this 
+angle, the scraping noise buries the actual tones.
+
+EXCEPTIONS:
+
+    Sometimes the noise sounds cool. For example, the beginning of 
+_Hoardes of Locusts_ by Satriani, or an accented blues articulation...
+
+H) Alternate Picking
+
+    Alternate picking is the alternation of downstrokes with upstrokes.
+Use it! 
+
+    Do that exercise presented in previous lessons like this: 
+    
+    d = Downstroke, u = upstroke
+    
+    Ascending:
+    
+   d u d u d u d u d u d u d u d u d u d u d u d u  
+E|-----------------------------------------1-2-3-4--|
+B|---------------------------------1-2-3-4----------|
+G|-------------------------1-2-3-4------------------|
+D|-----------------1-2-3-4--------------------------|
+A|---------1-2-3-4----------------------------------|
+E|-1-2-3-4------------------------------------------|...etc
+
+    Descending:
+    
+   d u d u d u d u d u d u d u d u d u d u
+E|-5-4-3-2-----------------------------------------|
+B|---------5-4-3-2---------------------------------|
+G|-----------------5-4-3-2-------------------------|
+D|-------------------------5-4-3-2-----------------|
+A|---------------------------------5-4-3-2---------|
+E|-----------------------------------------5-4-3-2-|
+
+    Be very careful descending.  People who are uncomfortable with 
+alternate picking generally reverse their picking pattern to:
+
+   d u d u u d u d u d u d u d u d u d u etc...
+E|-5-4-3-2-----------------------------------------|
+B|---------5-4-3-2---------------------------------|
+G|-----------------5-4-3-2-------------------------|
+D|-------------------------5-4-3-2-----------------|
+A|---------------------------------5-4-3-2---------|
+E|-----------------------------------------5-4-3-2-|
+
+because an upstroke to a lower string requires traveling less distance.
+Avoid this! 
+
+
+BENEFITS:
+
+    The most obvious -- one has the potential for playing twice as fast 
+with alternate picking than one does with just downstrokes. 
+
+    The reason to be rigorous about the pattern is to produce a 
+more musical pattern of accents. A downstroke naturally produces a 
+little heavier accent than an upstroke. You CAN modify this 
+deliberately, so that your upstrokes are heavier, but this is not what 
+will come out naturally. 
+
+    Now, there is a pretty predictable pattern of accents in the 
+rhythms of just about everything you will play. Take something in 
+4/4 time. The BEATS 1 - 2 - 3 - 4 in any measure will take the accents
+HARD - SOFT - MEDIUM - SOFT respectively. That would be efficiently 
+executed with Down - up - down - up. 
+
+    Imagine subdividing that measure into eighth notes.... 
+
+             1      &       2       &       3       &       4       & 
+is accented HARD  SOFT   MEDIUM   SOFT    HARD    SOFT   MEDIUM   SOFT
+and picked  down    up    down     up     down     up     down     up
+
+sixteenth notes?...
+
+ 1      a       &       a       2       a       &       a
+HARD  SOFT   MEDIUM   SOFT    HARD    SOFT   MEDIUM   SOFT
+down    up    down     up     down     up     down     up
+
+triplets?
+
+ 1      &     a    2    &    a
+HARD   SOFT  SOFT MED  SOFT SOFT
+down    up   down  up  down  up     or...
+down    up   down down  up  down 
+
+
+
+EXCEPTIONS:
+
+    Since downstrokes and upstrokes sound different, sometimes one 
+will want that sound. Fifties Rock, for example, is most 
+convincingly executed with downstrokes only.
+
+    In some Rock and Fusion styles, "economy" or "sweep" picking is 
+appropriate. This is where one always downstrokes to a higher string, 
+or upstrokes to a lower string. It is easier to develop speed this
+way. Unfortunately, the accents flatten out, and the passage just 
+sounds fast and picked. Time permitting, I will go into sweep picking
+in greater detail in other lessons.
+
+
+Class Assignment:  
+
+    Do the pseudo-chromatic exercise from Lesson II with the following 
+criteria:
+
+A) Guitar Position (see part I)
+
+B)1. Left Hand Thumb Position and range of motion (midline [G 
+     string] to edge... see lesson II)
+     
+  2. Left Hand Thumb Pressure (NONE! PERIOD! again, see lesson II)
+     
+        
+C) Left hand wrist. (straight as a ruler, palm away from the neck...
+                     again, lesson II)
+
+D) Left hand wrist. (parallel to the underside of the neck... lesson III)
+
+E) Finger placement. (close to the neck... lesson III)
+
+F) Overall position of right forearm.
+
+G) The pick, angled for the least noise
+
+H) Alternate Pick
+
+RELAX RELAX RELAX 
+
+ more to come...
+    
+copyright 1993 by Tim Fullerton.  Used by permission.

@@ -1,0 +1,580 @@
+Lesson: 22
+Title: Technique from Hell
+Level:  beginner, intermediate, advanced.
+Style: Technique
+Instructor: Tim Fullerton
+   
+   
+
+    Behold, the dreaded technique exercise from Hell! Use this to 
+develop and maintain almost unlimited speed. This exercise covers 
+and drills every possible combination of motions between the pick 
+and the fingers.
+
+    I beg you not to do this until you are quite comfortable with all 
+of the technical aspects that I provided across six lessons. If you 
+are not using good ergonomic technique, and you reinforce these bad 
+habits with this exercise, YOU WILL INJURE YOURSELF! If you are not
+using good tonal technique, your bad habits will be that much more 
+difficult to dig out of your technique later.
+
+
+
+    Here is a summary of the points of good technique as I 
+know it:
+
+
+    A) Guitar Position (see part I)
+    
+    B)1. Left Hand Thumb Position and range of motion (midline [G 
+         string] to edge... see lesson II)
+         
+      2. Left Hand Thumb Pressure (NONE! PERIOD! again, see lesson II)
+         
+            
+    C) Left hand wrist. (Straight as a ruler, palm away from the neck...
+                         again, lesson II)
+    
+    D) Left hand wrist. (parallel to the underside of the neck... 
+                        lesson III)
+    
+    E) Finger placement. (close to the neck... lesson III)
+    
+    F) Overall position of right forearm. (lesson IV)
+    
+    G) The pick, angled for the least noise (Lesson IV)
+    
+    H) Alternate Pick (lesson IV)
+    
+    I) Do not brace the right hand
+    
+    J) Use a very tiny motion to pick
+    
+    K) Relax
+    
+        (from lesson VI, or Internet L.O.T.W._19)
+        
+
+    If you are not absolutely comfortable with everything, for God's sake 
+do not do this yet. Keep up with the six lessons until you can dependably
+keep track of all of these points, however slowly you have to play. I keep 
+a consolidation of all six lessons on my hard drive; if you wish it, mail 
+a request to fullerto@cis.ohio-state.edu and I will be glad to mail it to 
+you.
+
+
+SETTING UP THE CHART
+
+    Make this chart that you will practice from each day. First,  
+write the permutations of 1234 down the left side of a piece of paper. 
+
+
+
+1234
+1243
+1324
+1342
+1423
+1432
+
+2134
+2143
+2314
+2341
+2413
+2431
+
+3124
+3142
+3214
+3241
+3412
+3421
+
+4123
+4132
+4213
+4231
+4312
+4321
+
+    
+    Write SABCD across the top. These are titles of columns, so put plenty 
+of room between each.
+
+
+            S               A               B               C           D
+        
+1234
+1243
+1324
+1342
+1423
+1432
+
+2134
+2143
+2314
+2341
+2413
+2431
+
+3124
+3142
+3214
+3241
+3412
+3421
+
+4123
+4132
+4213
+4231
+4312
+4321
+
+
+    The letters represent various left hand fingerings, and the numbers
+are the orders that each note is played in each fingering.
+
+    Pattern "S" is a single string:
+    
+    
+    Finger =====>     1     2     3     4
+
+    E|------|-----|---0-|---0-|---0-|---0-|-----|-----|-----|
+    B|------|-----|-----|-----|-----|-----|-----|-----|-----|
+    G|------|-----|-----|-----|-----|-----|-----|-----|-----|
+    D|------|-----|-----|-----|-----|-----|-----|-----|-----|
+    A|------|-----|-----|-----|-----|-----|-----|-----|-----|
+    E|------|-----|-----|-----|-----|-----|-----|-----|-----|
+
+
+
+
+    Pattern A:
+    
+    
+    Finger =====>     1     2     3     4
+
+
+    E|------|-----|-----|---0-|-----|-----|-----|-----|-----|
+    B|------|-----|---0-|-----|-----|-----|-----|-----|-----|
+    G|------|-----|-----|-----|---0-|-----|-----|-----|-----|
+    D|------|-----|-----|-----|-----|---0-|-----|-----|-----|
+    A|------|-----|-----|-----|-----|-----|-----|-----|-----|
+    E|------|-----|-----|-----|-----|-----|-----|-----|-----|
+
+
+
+
+    Pattern B:
+    
+    
+    Finger =====>     1     2     3     4
+
+
+    E|------|-----|---0-|-----|-----|-----|-----|-----|-----|
+    B|------|-----|-----|---0-|-----|-----|-----|-----|-----|
+    G|------|-----|-----|-----|---0-|-----|-----|-----|-----|
+    D|------|-----|-----|-----|-----|---0-|-----|-----|-----|
+    A|------|-----|-----|-----|-----|-----|-----|-----|-----|
+    E|------|-----|-----|-----|-----|-----|-----|-----|-----|
+    
+    
+    
+    
+    Pattern C:
+    
+    
+    Finger =====>     1     2     3     4
+
+
+    E|------|-----|-----|-----|-----|---0-|-----|-----|-----|
+    B|------|-----|-----|-----|---0-|-----|-----|-----|-----|
+    G|------|-----|-----|---0-|-----|-----|-----|-----|-----|
+    D|------|-----|---0-|-----|-----|-----|-----|-----|-----|
+    A|------|-----|-----|-----|-----|-----|-----|-----|-----|
+    E|------|-----|-----|-----|-----|-----|-----|-----|-----|
+    
+    
+    
+
+    Pattern D:
+    
+    
+    Finger =====>     1     2     3     4
+
+
+    E|------|-----|-----|-----|---0-|-----|-----|-----|-----|
+    B|------|-----|---0-|-----|-----|---0-|-----|-----|-----|
+    G|------|-----|-----|---0-|-----|-----|-----|-----|-----|
+    D|------|-----|-----|-----|-----|-----|-----|-----|-----|
+    A|------|-----|-----|-----|-----|-----|-----|-----|-----|
+    E|------|-----|-----|-----|-----|-----|-----|-----|-----|
+    
+    
+    
+
+    
+    
+    Choose a picking pattern for this chart. There are four to apply.
+Down, up, down, up; 
+Up, down, up, down;
+Down, down, down, down; and
+Up, up, up, up.
+
+    Let us begin by drilling down, up, down, up. Indicate that on the 
+chart:
+
+
+
+
+                            down, up, down, up
+
+            S               A               B               C           D
+        
+1234
+1243
+1324
+1342
+1423
+1432
+
+2134
+2143
+2314
+2341
+2413
+2431
+
+3124
+3142
+3214
+3241
+3412
+3421
+
+4123
+4132
+4213
+4231
+4312
+4321
+
+
+
+
+            FILLING THE CHART
+
+
+    Fill the chart with metronome markings. Find the speed where 
+you can play each pattern perfectly five times. Then drop that speed
+25%. That is the number that you put on the chart, and that is the 
+speed at which you will practice that particular pattern.
+
+    For example:
+    
+    Let us begin with 1234 on a single string, and let us say that we 
+will practice it on the 5th fret. Start playing it.
+
+
+
+   1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4  <== Fingering
+   
+E|-5-6-7-8-5-6-7-8-5-6-7-8-5-6-7-8-|    etc...
+B|---------------------------------|
+G|---------------------------------|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+
+    Now while you are playing it, go through the technique check list 
+and incorporate each aspect on the check list:
+
+    For example, ask yourself "Is the guitar set up properly? Are my 
+fingers staying low?" Keep slowing your speed until you can maintain 
+all of the aspects of good technique.
+
+
+    Then make sure that you are using the correct picking pattern for 
+this chart...
+
+   d u d u d u d u d u d u d u d u  <== Picking
+
+   1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4  <== Fingering
+   
+E|-5-6-7-8-5-6-7-8-5-6-7-8-5-6-7-8-|    etc...
+B|---------------------------------|
+G|---------------------------------|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+
+
+
+
+
+
+    and make sure that it is played in an even tempo...
+
+       d u d u d u d u d u d u d u d u  <== Picking
+    
+       1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4  <== Fingering
+       
+    E|-5-6-7-8-5-6-7-8-5-6-7-8-5-6-7-8-|    etc...
+    B|---------------------------------|
+    G|---------------------------------|
+    D|---------------------------------|
+    A|---------------------------------|
+    E|---------------------------------|
+
+
+        not
+            
+       d u d u          d u d u          d u d u 
+    
+       1 2 3 4          1 2 3 4          1 2 3 4 <== Fingering
+       
+    E|-5-6-7-8 (pause) -5-6-7-8 (pause) -5-6-7-8 (pause)
+    B|---------        ---------        ---------------|
+    G|---------        ---------        ---------------|
+    D|---------        ---------        ---------------|
+    A|---------        ---------        ---------------|
+    E|---------        ---------        ---------------|
+
+
+
+
+
+    Let us say that you came up with a speed of 92 on a standard 
+metronome. Drop that back by 25% (5 clicks on a standard metronome)
+and put that figure (69) at the intersection of 1234 (the fingering 
+order) and "S," the fingering pattern.
+
+
+                            down, up, down, up
+
+            S               A               B               C           D
+        
+1234       69
+1243
+1324
+1342
+1423
+1432
+
+2134
+2143
+2314
+2341
+2413
+2431
+
+3124
+3142
+3214
+3241
+3412
+3421
+
+4123
+4132
+4213
+4231
+4312
+4321
+
+
+
+
+
+    Let us try one a little more awkward. How about pattern "A" 1324.
+Recall that pattern A is:
+
+
+    
+    Finger =====>     1     2     3     4
+
+
+    E|------|-----|-----|---0-|-----|-----|-----|-----|-----|
+    B|------|-----|---0-|-----|-----|-----|-----|-----|-----|
+    G|------|-----|-----|-----|---0-|-----|-----|-----|-----|
+    D|------|-----|-----|-----|-----|---0-|-----|-----|-----|
+    A|------|-----|-----|-----|-----|-----|-----|-----|-----|
+    E|------|-----|-----|-----|-----|-----|-----|-----|-----|
+
+
+
+
+thus the way you would execute that pattern (in fifth position) is:
+
+
+
+         d u d u d u d u    <== Picking
+
+         1 3 2 4 1 3 2 4    <== Fingering
+    E|-------6-------6----|
+    B|---5-------5--------|
+    G|-----7-------7------|     etc...
+    D|---------8-------8--|
+    A|--------------------|
+    E|--------------------|
+
+
+
+    Again, slow down until perfect technique can be maintained and 
+until there are no pauses between iterations. Be especially 
+conscious of the picking pattern. I know this is not the way you 
+want to do it, and this way is terribly awkward. That is the whole 
+point of this exercise -- to drill every possible motion, awkward or 
+not.
+
+    Say that you can do this perfectly in quarter notes at 50. Drop the 
+metronome back five clicks to 40, and mark that on your chart.
+
+
+
+
+
+                            down, up, down, up
+
+            S               A               B               C           D
+        
+1234       69
+1243
+1324                       40
+1342
+1423
+1432
+
+2134
+2143
+2314
+2341
+2413
+2431
+
+3124
+3142
+3214
+3241
+3412
+3421
+
+4123
+4132
+4213
+4231
+4312
+4321
+
+
+    Obviously, you should put your own speeds in place of the examples 
+that I provide. I leave it up to you to fill out your chart. 
+
+    
+    
+    There are two reasons to keep the practice speed 25% slower than 
+your maximum. For one thing, we are guitarists. As such, we are 
+egomaniacs. We are constitutionally incapable of being honest with 
+ourselves about how fast we can really play.:-) More seriously, some 
+days our chops work better than others. If we try to practice at our 
+top speed every day, some days we are just not going to be able to 
+do it. Those days, sloppiness will erode our progress. That 25% 
+reduction allows for a comfortable cushion to account for when your 
+chops just aren't working. Fear not, your top speed will still rise 
+with the practice speed.
+    
+    
+    PRACTICING 
+    
+    
+    Aspire to practice through this chart six days a week. After a 
+week, make a new chart and increase each speed by one metronome 
+increment. If you are using one of those digital metronomes that 
+increments by ones, refer to the chart of standard metronome 
+increments at the end of this lesson.
+
+    Right now, I would expect that it takes a ridiculous amount of time
+to play through this chart. For that reason, I would say not to make 
+charts for up, down, up, down; down, down, down, down; or 
+up, up, up, up. When you are faster, then start adding charts one by 
+one.
+
+    Soon you are going to be REALLY fast. For that reason, I suggest 
+that you acquire the habit of warming up before you do this. 
+Unfortunately, I have never run across any definitive warm-up 
+routines. I have heard that merely playing slowly is insufficient. 
+Unfortunately, no one has offered anything better yet. If you know 
+of anything, mail me. Meanwhile, I would suggest something that 
+lightly works the fingers of your left hand -- for example, the 
+pseudo chromatic exercise from the six technique lessons, any 
+scales, and sightreading. Play slowly and very gradually work up to 
+around the speeds at which you play the exercise from Hell. Rest 
+frequently.
+
+    Also, move around where you practice the patterns. For example, do 
+not always play them on the top four strings in fifth position. Play 
+them in arbitrary positions on arbitrary groups of adjoining four 
+strings around the whole range of the neck.
+
+
+
+    THE METRONOME
+    
+    
+    Don't have a metronome? The kind that is best for this exercise is 
+the battery powered kind with a dial on the front. The time kept is 
+infallible, the dial has standard increments, and you can get from 
+one speed to another instantly -- all come in very handy in the 
+exercise from Hell. Other kinds of metronomes that exist are the 
+little digital ones, the plug in mechanical kind, and the 
+upside-down pendulum kind. The little digital ones are great for 
+general purpose practicing. They are cheap and keep infallible time. 
+They are inconvenient for this, though, because they increment by 
+one and because you can't get from one speed to another instantly; 
+you have to wait for it to scroll up to the speed you want. The 
+other kinds just plain suck. The plug-in mechanical kind varies with 
+household current, and when they wear out they get noisy. The 
+upside-down pendulum kind keep time badly.
+
+
+
+
+                    STANDARD METRONOME INCREMENTS
+
+
+    40 - 60 increment by two
+
+40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60
+
+
+    60 - 72 increment by three
+
+60, 63, 66, 69, 72
+
+
+    72 - 120 increment by four
+    
+72, 76, 80, 84, 88, 92, 96, 100, 104, 108, 112, 116, 120
+
+
+    120 - 144 increment by six
+    
+120, 126, 132, 138, 144
+
+
+    144 - 208 increment by eight
+    
+144, 152, 160, 168, 176, 184, 192, 200, 208
+
+
+   Tim Fullerton
+   fullerto@cis.ohio-state.edu
+   1987 Upper Chelsea Rd
+   Columbus, Ohio 43221
+   
+   (614) - 488 - 9322
+
+copyright 1993 by Tim Fullerton.  Used by permission.
